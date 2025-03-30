@@ -1,0 +1,12 @@
+inferplot.betweenstats
+======================
+
+.. automodule:: inferplot.betweenstats
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      BetweenStats
+   

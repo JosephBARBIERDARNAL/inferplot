@@ -1,0 +1,17 @@
+﻿inferplot
+=========
+
+.. automodule:: inferplot
+
+   
+.. rubric:: Modules
+
+.. autosummary::
+   :toctree:
+   :recursive:
+
+   betweenstats
+   cls_scatterstats
+   datasets
+   scatterstats
+   utils

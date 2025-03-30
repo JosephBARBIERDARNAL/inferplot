@@ -1,0 +1,12 @@
+inferplot.cls\_scatterstats
+===========================
+
+.. automodule:: inferplot.cls_scatterstats
+
+   
+   .. rubric:: Classes
+
+   .. autosummary::
+   
+      ScatterStats
+   
